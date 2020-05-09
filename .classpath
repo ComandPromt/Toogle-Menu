@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MenuEjemplo/src"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/NefAnimacion_V2.1_jdk18.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-core-1.6.2-2.jar"/>
+	<classpathentry kind="output" path="MenuEjemplo/build/classes"/>
+</classpath>
